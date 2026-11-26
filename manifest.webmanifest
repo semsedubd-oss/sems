@@ -1,0 +1,17 @@
+{
+  "name": "SEMS Academy",
+  "short_name": "SEMS",
+  "description": "SEMS Academy ছাত্র ও অভিভাবক পোর্টাল",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0009b5",
+  "theme_color": "#0009b5",
+  "lang": "bn",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
